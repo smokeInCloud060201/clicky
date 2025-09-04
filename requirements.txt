@@ -1,0 +1,9 @@
+flask
+waitress
+pillow
+pyscreeze
+pygetwindow
+pymsgbox
+mouseinfo
+pyautogui
+opencv-python
